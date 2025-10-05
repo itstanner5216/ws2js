@@ -1,4 +1,8 @@
 /*
+ * WS2JS 0.3
+ * 
+ * WS2JS is a library which convert Whitespace-0.3 to JavaScript.
+ * 
  * @author: Luilak
  * @License: the MIT License
  */
